@@ -1,5 +1,3 @@
-Beleza 🚀
-Montei um **README.md** em português, pronto pra você colocar no seu repositório do GitHub. Ele descreve o projeto, mostra como rodar e dá uma visão geral.
 
 ```markdown
 # 📚 Sistema de Gerenciamento de Livros
